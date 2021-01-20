@@ -1,6 +1,6 @@
 ---
 title: My first post using Novela by Narative
-author: Dennis Brotzky
+author: Rafael Pacheco
 date: 2021-04-30
 hero: ./images/hero.jpg
 excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.

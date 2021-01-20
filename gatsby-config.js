@@ -5,7 +5,8 @@ module.exports = {
     siteUrl: `https://ravpacheco.com`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Welcome to my place.
+      Usually, I put here what I learned and what I feel`,
       maxWidth: 652,
     },
     social: [
@@ -35,6 +36,7 @@ module.exports = {
         contentAuthors: "content/authors",
         basePath: "/",
         authorsPage: true,
+        mailchimp: true,
         sources: {
           local: true,
           // contentful: true,
@@ -55,7 +57,12 @@ module.exports = {
     },
     {
       resolve: `gatsby-plugin-netlify-cms`,
+      options: {},
+    },
+    {
+      resolve: "gatsby-plugin-mailchimp",
       options: {
+        endpoint: "", // add your MC list endpoint here; see plugin repo for instructions
       },
     },
   ],
