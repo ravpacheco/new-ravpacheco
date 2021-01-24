@@ -1,19 +1,12 @@
 ---
-title: "Conceitos de programação distribuída"
-layout: post
-date: 2015-03-01 22:48
-author: ravpacheco
-lang: pt
-ref: distributed-programming
-image: /assets/images/markdown.jpg
-headerImage: false
-tag:
+title: Conceitos de programação distribuída
+author: Rafael Pacheco
+date: 2015-03-01
+# hero: ./images/markdown.jpg
+excerpt: Alguns conceitos básicos importantes em programação concorrente e distribuída. 
+tag: 
 - programacao distribuida
 - teoria
-blog: true
-description: Alguns conceitos básicos importantes em programação concorrente e distribuída. 
-externalLink: true
-category: blog
 ---
 
 Nos últimos dias comecei a estudar o framework Akka, para programação baseada em atores (discutirei mais sobre o Akka em  uma póxima oportunidade), e por isso me vi obrigado a revisitar alguns conceitos simples, mas confusos sobre programação distribuída. Este post é uma compilação de alguns destes tópicos. Caso tenha alguma dúvida, crítica ou sugestão deixe seu comentário.

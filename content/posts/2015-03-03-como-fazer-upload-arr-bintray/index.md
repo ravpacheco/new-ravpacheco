@@ -1,20 +1,13 @@
 ---
-title: "Como fazer upload de um pacote aar para o Bintray"
-layout: post
-date: 2015-03-03 22:48
-author: ravpacheco
-lang: pt
-ref: aar-bintray
-image: /assets/images/markdown.jpg
-headerImage: false
+title: Como fazer upload de um pacote aar para o Bintray
+author: Rafael Pacheco
+date: 2015-03-03
+# hero: ./images/hero.jpg
 tag:
 - android
 - bintray
 - aar package
-blog: true
-description: Passo a passo para disponibilizar um pacote aar no Bintray. 
-externalLink: true
-category: blog
+excerpt: Passo a passo para disponibilizar um pacote aar no Bintray. 
 ---
 
 # Introdução

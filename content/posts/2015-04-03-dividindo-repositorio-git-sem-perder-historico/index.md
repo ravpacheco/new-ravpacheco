@@ -1,16 +1,11 @@
 ---
-title: "Dividindo um repositório git sem perder histórico de modificações"
-layout: post
-date: 2015-04-03 22:48
-author: ravpacheco
-lang: pt
-ref: split-git-repository
+title: Dividindo um repositório git sem perder histórico de modificações
+author: Rafael Pacheco
+date: 2015-04-03
+# hero: ./images/hero.jpg
 tag:
 - git
-blog: true
-category: blog
-description: Exemplo prático de como dividir um repositório git sem perder histórico de commits. 
-externalLink: true
+excerpt: Exemplo prático de como dividir um repositório git sem perder histórico de commits. 
 ---
 
 Recentemente precisei subdividir um reposório git em 2. Aparentemente a tarefa é trivial, o problema é que não queria perder todo o histórico de modificações realizado no código.

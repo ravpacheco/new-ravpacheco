@@ -2,7 +2,7 @@
 title: Diga não a procrastinação!
 author: Rafael Pacheco
 date: 2014-11-20
-hero: ./images/take.jpg
+hero: ./images/image-1.jpg
 excerpt: Faça o que tem que ser feito. Diga não a procrastinação.
 tag: 
 - culture
