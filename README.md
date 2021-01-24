@@ -4,6 +4,11 @@
 
 <br/>
 
+# TODO:
+
+Add comments by Disqus
+https://www.gatsbyjs.com/plugins/gatsby-plugin-disqus/
+
 # Gatsby Starter Novela
 
 With minimal styling and maximum features — including multiple homepage layouts, built-in social sharing and dark mode — Novela makes it easy to start publishing beautiful articles and stories with Gatsby.

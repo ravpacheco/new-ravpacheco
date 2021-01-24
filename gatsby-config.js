@@ -6,7 +6,7 @@ module.exports = {
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
       heading: `Welcome to my place.
-      Usually, I put here what I learned and what I feel`,
+      Usually, I put here what I feel and learn`,
       maxWidth: 652,
     },
     social: [
@@ -36,7 +36,7 @@ module.exports = {
         contentAuthors: "content/authors",
         basePath: "/",
         authorsPage: true,
-        mailchimp: true,
+        mailchimp: false,
         sources: {
           local: true,
           // contentful: true,
