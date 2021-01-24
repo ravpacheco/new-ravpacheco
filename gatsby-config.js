@@ -59,11 +59,5 @@ module.exports = {
       resolve: `gatsby-plugin-netlify-cms`,
       options: {},
     },
-    {
-      resolve: "gatsby-plugin-mailchimp",
-      options: {
-        endpoint: "", // add your MC list endpoint here; see plugin repo for instructions
-      },
-    },
   ],
 };
