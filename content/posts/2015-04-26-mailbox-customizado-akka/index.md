@@ -1,18 +1,13 @@
 ---
-title: "Como criar um Mailbox customizado com akka"
-layout: post
-date: 2015-04-26 22:48
-author: ravpacheco
-lang: pt
-ref: customizing-akka-mailbox
+title: Como criar um Mailbox customizado com akka
+author: Rafael Pacheco
+date: 2015-04-26
+# hero: ./images/hero.jpg
 tag:
 - akka
 - mailbox
 - java
-blog: true
-description: Exemplo prático de como criar um maibox customizado para o akka. 
-externalLink: true
-category: blog
+excerpt: Exemplo prático de como criar um maibox customizado para o akka. 
 ---
 
 Uma das estruturas mais importantes do toolkit akka são os mailbox presentes em todos os atores.
@@ -22,9 +17,9 @@ Cada ator possui um mailbox, que pode ser único ou compartilhado por vários at
 Existem diversas implementações de mailboxes nativas no akka, como por exemplo: ([clique aqui](http://doc.akka.io/docs/akka/current/java/mailboxes.html) para consultar todos os tipos)
 
 1. UnboundedMailbox – O mailbox padrão
-    * Utiliza “ConcurrentLinkedQueue” como estrutura de armazenamento
-    * Não possui bloqueio
-    * Não possui limite de mensagens
+    - Utiliza “ConcurrentLinkedQueue” como estrutura de armazenamento
+    - Não possui bloqueio
+    - Não possui limite de mensagens
 
 2. BoundedMailbox – Mailbox com limite de mensagens
     * Utiliza “LinkedBlockingQueue” como estrutura de armazenamento
@@ -91,7 +86,7 @@ ActorRef specialActor =
 A string “my-mailbox” deve ser configurada no arquivo application.conf de sua aplicação.
 Para este exemplo, configure o arquivo application.conf com o código abaixo.
 
-```java
+```conf
 my-mailbox {
     mailbox-type = "your_namespace.MyUnboundedMailbox"
 }

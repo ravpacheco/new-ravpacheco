@@ -1,21 +1,14 @@
 ---
-title: "Criando um ambiente real de distribuição de aplicativos usando TestFairy"
-layout: post
-date: 2015-06-13 22:44
-author: ravpacheco
-lang: pt
-ref: testfairy
-image: /assets/images/2015-06-13-distribuindo-aplicativos-com-testFairy/mtc2015.jpg
-headerImage: true
+title: Criando um ambiente real de distribuição de aplicativos usando TestFairy
+author: Rafael Pacheco
+date: 2015-06-13
+hero: ./images/mtc2015.jpg
 tag:
 - testfairy
 - test
 - quality assurance
 - mobile
-blog: true
-description: Overview sobre o TestFairy, uma ferramenta para distribuição e controle de qualidade de aplicações móveis profissionais
-externalLink: true
-category: blog
+excerpt: Overview sobre o TestFairy, uma ferramenta para distribuição e controle de qualidade de aplicações móveis profissionais
 ---
 
 No último sábado participei do [Minas Testing Conference - MTC](http://minastestingconference.com.br/), um evento voltado para as 
@@ -43,7 +36,7 @@ Deixo abaixo o vídeo completo da palestra e os slides utilizados:
 
 ## Slides 
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/f6CuQfdbxbYRHp" width="560" height="315" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/RafaelAvelar1/criando-um-ambiente-real-de-distribuio-de-aplicativos-usando-testfairy" title="Criando um ambiente real de distribuição de aplicativos usando TestFairy" target="_blank">Criando um ambiente real de distribuição de aplicativos usando TestFairy</a> </strong> de <strong><a target="_blank" href="//www.slideshare.net/RafaelAvelar1">Rafael A Pacheco</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/f6CuQfdbxbYRHp" width="560" height="315" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"></div>
 
 Não deixe de enviar sua dúvida, crítica ou sugestão.
 

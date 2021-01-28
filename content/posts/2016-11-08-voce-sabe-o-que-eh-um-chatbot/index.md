@@ -1,21 +1,14 @@
 ---
-title: "Você sabe o que é um <b>chatbot</b>?"
-layout: post
-date: 2016-11-08 22:44
-author: ravpacheco
-lang: pt
-ref: what-is-chatbot
-image: /assets/images/2016-11-08-voce-sabe-o-que-eh-um-chatbot/chatbot.jpg
-headerImage: true
+title: Você sabe o que é um chatbot?
+author: Rafael Pacheco
+date: 2016-11-08
+hero: ./images/chatbot.jpg
 tag:
 - chatbot
 - teoria
 - blip
 - bots
-blog: true
-description: Overview sobre um novo modelo de aplicações, os chatbots.
-externalLink: true
-category: blog
+excerpt: Overview sobre um novo modelo de aplicações, os chatbots.
 ---
 
 Chatbots, também conhecidos como '*bots*', '*chatterbot*', '*smart contacts*' ou contatos inteligentes são aplicações que comportam-se como um contato, em uma conversa, com a finalidade de prover algum tipo de serviço. Atualmente, já é possível desenvolver chatbots para os principais canais de menssageria do mercado, como: Facebook Messenger, Telegram, Skype, SMS, Slack, Kik entre outros. Assim como nos comunicamos com nossos familiares, os chatbots nos permitem conversar com um sensor de terremoto, ou uma máquina de refrigerantes, por exemplo, através de mensagem.
