@@ -1,20 +1,12 @@
 ---
-title:  "Bem vindo a web :)"
-layout: post
-date:   2017-01-26 14:00:00 +0000
-author: ravpacheco
-lang: pt
-ref: welcome-web
-image: /assets/images/2017-01-26-bem-vindo-web/nadador.jpg
-headerImage: true
-tag: 
+title: Bem vindo a web :)
+author: Rafael Pacheco
+date: 2017-01-26
+hero: ./images/nadador.jpg
+tag:
 - web
 - javascript-libraries
-blog: true
-star: false
-description: Overview de algumas ferramentas importantes para a construção de um projeto web de qualidade 
-externalLink: true
-category: blog
+excerpt: Overview de algumas ferramentas importantes para a construção de um projeto web de qualidade.
 ---
 
 Nos últimos anos, tenho trabalhado em projetos que demandam conhecimentos em aplicações backend, mobile e frontend (web). Profissionais com este perfil, são 
@@ -31,8 +23,9 @@ por várias vezes, voltar a superfície para dar uma respirada ;) . Este post é
 Por tanto, aqui vai a primeira dica. Não tente nadar para todos os lados, é muita coisa pra vasculhar e grande parte delas é replicada ou até mesmo desnecessária, em 
 um primeiro momento. 
 
-> Meu objetivo neste texto é apresentar ferramentas interessantes que me deparei e como cada uma delas pode ajudar no desenvolvimento aplicações web de 
-qualidade.
+### Meu objetivo neste texto é apresentar ferramentas interessantes que me deparei e como cada uma delas pode ajudar no desenvolvimento aplicações web de qualidade. 
+
+<br/>
 
 As três tecnologias necessárias para desenvolver qualquer aplicação web são HTML, CSS e Javascript e por isso, dominar os elementos básicos de cada uma delas é 
 uma premissa.
@@ -59,7 +52,13 @@ correta, para todos os seus clientes, demanda um certo esforço.
 Pensando nisso, o projeto [**Can I use**](http://caniuse.com/) apresenta de forma rápida e simples uma análise sobre o suporte dos princiais browsers a diversas funcionalidades.
 A figura abaixo mostra um exemplo desta ferramenta, neste caso foi analisado o suporte dos browsers ao ES6. Repare que nenhum browser apresenta suporte para essa tecnologia.
 
-![Exemplo de utilização do Can I use](../assets/images/2017-01-26-bem-vindo-web/image.png)
+<div className="Image__Small">
+  <img
+    src="./images/image.png"
+    title="Exemplo de utilização do Can I use"
+    alt="Exemplo de utilização do Can I use"
+  />
+</div>
 
 Outra ferramenta bastante útil quando se trata de compatibilidade é o [**testling**](https://ci.testling.com/). Essa ferramenta analisa a compatibilidade de sua aplicação em todos os principais 
 browsers, podendo inclusive ser utilizada como um estágio de seu pipeline de integração contínua.

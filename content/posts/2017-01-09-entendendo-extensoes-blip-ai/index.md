@@ -1,34 +1,24 @@
 ---
-title:  "Facilitando a criação de seu chatbot através das extensões BLiP"
-layout: post
-date:   2017-01-09 14:00:00 +0000
-author: ravpacheco
-lang: pt
-ref: blip-extensions
-image: /assets/images/2017-01-09-entendendo-extensoes-blip-ai/image_0.jpg
-headerImage: true
-tag: 
+title: Facilitando a criação de seu chatbot através das extensões BLiP
+author: Rafael Pacheco
+date: 2017-01-09
+hero: ./images/image_0.jpg
+tag:
 - chatbot
 - blip.ai
 - blip-sdk-csharp
-blog: true
-star: true
-description: Acelere o desenvolvimento de seu chatbot com as extensões da plataforma blip.ai
-externalLink: true
-category: blog
+excerpt: Acelere o desenvolvimento de seu chatbot com as extensões da plataforma blip.ai
 ---
 
-<span class="evidence">Observação: Este post foi originalmente escrito para o [blog](http://blog.blip.ai/2016/12/28/entendendo-as-extensoes.html) do blip.ai</span>
+#### Observação: Este post foi originalmente escrito para o [blog](http://blog.blip.ai/2016/12/28/entendendo-as-extensoes.html) do blip.ai
+<br />
+<br />
 
-Se você já criou algum chatbot, provavelmente já precisou de várias ferramentas auxiliares. Agendar o envio de alguma mensagem, salvar informações de seus clientes em 
-um local seguro ou *trackear* eventos ocorridos, são exemplos de tarefas simples que podem demandar um grande esforço para serem realizadas.
+Se você já criou algum chatbot, provavelmente já precisou de várias ferramentas auxiliares. Agendar o envio de alguma mensagem, salvar informações de seus clientes em um local seguro ou *trackear* eventos ocorridos, são exemplos de tarefas simples que podem demandar um grande esforço para serem realizadas.
 
-Pensando nisso, a plataforma [BLiP](https://blip.ai/) possui diversas [extensões](https://portal.blip.ai/#/docs/extensions). As extensões são serviços que provêm funcionalidades 
-para facilitar a vida dos desenvolvedores no momento da construção dos chatbots. Imagine que cada extensão seja um plugin, conectado à plataforma, que pode receber comandos e mensagens, 
-dos próprios chatbots, para realizar alguma ação.
+Pensando nisso, a plataforma [BLiP](https://blip.ai/) possui diversas [extensões](https://portal.blip.ai/#/docs/extensions). As extensões são serviços que provêm funcionalidades para facilitar a vida dos desenvolvedores no momento da construção dos chatbots. Imagine que cada extensão seja um plugin, conectado à plataforma, que pode receber comandos e mensagens, dos próprios chatbots, para realizar alguma ação.
 
-O objetivo deste artigo é demonstrar como é fácil e rápido utilizar estas extensões durante a criação de um chatbot. Todos os exemplos apresentados aqui utilizam o [SDK 
-C#](https://portal.blip.ai/#/docs/sdks/csharp).
+O objetivo deste artigo é demonstrar como é fácil e rápido utilizar estas extensões durante a criação de um chatbot. Todos os exemplos apresentados aqui utilizam o [SDK C#](https://portal.blip.ai/#/docs/sdks/csharp).
 
 # Extensões disponíveis
 
@@ -87,7 +77,7 @@ Para exemplificar o uso das extensões vamos criar um chatbot utilizando o SDK C
 [neste link](https://portal.blip.ai/#/docs/sdks/csharp/installing). A utilização de cada extensão será apresentada através de exemplos simples, mas indispensáveis para quem 
 está desenvolvendo qualquer chatbot.
 
-![Chatbots com extensões](../assets/images/2017-01-09-entendendo-extensoes-blip-ai/image.png)
+![Chatbots com extensões](./images/image.png)
 
 **Obs.: Todos os casos abaixo foram criados tomando como base a classe *PlainTextMessageReceiver*, adicionada automaticamente no momento da instalação do SDK C#.**
 
@@ -96,7 +86,10 @@ está desenvolvendo qualquer chatbot.
 Ao criar um chatbot de lembretes, é imprescindível a funcionalidade de agendamento de mensagem.
 Imagine que o usuário enviou uma mensagem para o chatbot com a seguinte sentença.
 
-> Lembrar-me de tomar remédio em 10 minutos
+### "Lembrar-me de tomar remédio em 10 minutos"
+
+<br />
+<br />
 
 Neste caso, seu chatbot precisa enteder o contexto da conversa, extrair as infromações de comando e finalmente agendar uma mensagem para os próximos 10 minutos.
 Para entender o contexto e extrair as inforamações necessárias você pode utilizar o [TextC](https://github.com/takenet/textc-csharp) por exemplo. 

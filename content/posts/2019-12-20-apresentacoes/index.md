@@ -1,15 +1,12 @@
 ---
-title: "Palestras e Workshops 🗣️"
-layout: post
-author: ravpacheco
-lang: pt
-ref: presentations
-img: indigo/indigo.png
-tag: projects
-date: 2019-12-20 14:00:00 +0000
-projects: true
-summary: "Lista de algumas das minhas participações em eventos e workshops"
-category: project
+title: Palestras e Workshops 🗣️
+author: Rafael Pacheco
+date: 2019-12-20
+# hero: ./images/brazil-digital-report.png
+tag:
+- projects
+excerpt: Lista de algumas das minhas participações em eventos e workshops
+secret: true
 ---
 
 A lista abaixo apresenta algumas das minhas apresentações. Para dúvidas sobre um dos assuntos ou convites para eventos envie me uma mensagem 😉.
