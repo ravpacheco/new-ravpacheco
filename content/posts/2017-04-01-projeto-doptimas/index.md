@@ -1,17 +1,14 @@
 ---
-title: "D-OPTIMAS 📝"
-layout: post
-author: ravpacheco
-lang: pt
-ref: doptimas-project
-img: indigo/indigo.png
-tag: projects
-projects: true
-summary: "Introdução ao D-OPTIMAS <i>Distributed multi agent system</i>, um software para resolução de problemas de otimização de diferentes classes que desenvolvi durante meu mestrado."
-category: project
+title: D-OPTIMAS 📝
+author: Rafael Pacheco
+date: 2017-04-01
+hero: ./images/emoji.jpg
+tag:
+  - projects
+excerpt: Introdução ao D-OPTIMAS Distributed multi agent system, um software para resolução de problemas de otimização de diferentes classes que desenvolvi durante meu mestrado.
 ---
 
-> D-OPTIMAS - Distributed OPTimization Multi Agent System
+#### D-OPTIMAS - Distributed OPTimization Multi Agent System
 
 Vários problemas em otimização são denominados NP-difíceis devido a dificuldade para solucioná-los de maneira ótima, através de programação matemática, em um tempo razoável. 
 
@@ -24,5 +21,3 @@ Ao longo do trabalho, foram realizadas simulações, utilizando o D-OPTIMAS, par
 Além disso, o modelo de atores se mostrou uma poderosa ferramenta para construção de sistemas multi agentes escaláveis, possibilitando a criação de uma quantidade de agentes duas ordens de grandeza superior aquela produzidas por sistemas anteriores, baseados em concorrência por compartilhamento de estado em memória.
 
 [Clique aqui](https://goo.gl/KPcsZO) para ver minha dissertação completa sobre o D-OPTIMAS.
-
-> Note: *All work was written in Portuguese.*

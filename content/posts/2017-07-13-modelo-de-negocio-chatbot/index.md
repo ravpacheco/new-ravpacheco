@@ -1,24 +1,16 @@
 ---
-title:  "Qual o melhor modelo de negócio para o seu chatbot ?"
-layout: post
-date:   2017-07-13 14:00:00 +0000
-author: ravpacheco
-lang: pt
-ref: business-model-chatbot
-image: /assets/images/2017-07-13-modelo-de-negocio-chatbot/money.png
-headerImage: true
-tag: 
+title: Qual o melhor modelo de negócio para o seu chatbot ?
+author: Rafael Pacheco
+date: 2017-07-13
+hero: ./images/money.png
+tag:
 - chatbot
 - revenue-model
 - business-model
 - modelo-negocio
 - faturamento
 - monetização
-blog: true
-star: true
-description: Insights sobre alguns modelos de negócios e precificação para projetos de chatbots, baseados em cases do mercado.
-externalLink: true
-category: blog
+excerpt: Insights sobre alguns modelos de negócios e precificação para projetos de chatbots, baseados em cases do mercado.
 ---
 
 Ao longo das últimas semanas, recebi muitas mensagens e li comentários de pessoas interessadas em saber sobre modelos de negócios e precificação para projetos de chatbots. Meu objetivo neste artigo é apresentar *insights* sobre modelos que tenho visto em alguns *cases* do mercado. Se você tem uma idéia interessante ou está pensando em desenvolver um chatbot, mas ainda não sabe como monetizar, se liga em algumas dicas.
@@ -27,8 +19,13 @@ Antes de mais nada, é preciso lembrar que um chatbot nada mais é do que um pro
 
 Como em qualquer situação da vida, essa mudança carrega lados diferentes de uma mesma moeda, quando o assunto é precificação. Por um lado, construir serviços dentro dos apps de mensagem facilita o desenvolvimento, e pode reduzir o preço de um projeto (se comparado a aplicações tradicionais) - uma vez que o desenvolvedor não precisa se preocupar com diversos pontos como: interface gráfica, distribuição e atualização da aplicação (no *client-side*). Do outro lado da moeda, por se tratar de uma área multidisciplinar, onde os profissionais precisam entender de diversas áreas de conhecimento como: interfaces conversacionais, design de conversas, inteligência artificial, entre outros temas, encontrar pessoas capacitadas pode não ser uma tarefa simples. Assim, até o momento, projetos grandes e complexos nessa área, de forma geral, apresentam um custo de construção elevado.
 
-<img src="../assets/images/2017-07-13-modelo-de-negocio-chatbot/questions.jpg" 
-    alt="Dúvidas" style="display: block; margin: 0 auto;">
+<div className="Image__Small">
+  <img
+    src="./images/questions.jpg"
+    title="Dúvidas"
+    alt="Dúvidas"
+  />
+</div>
 
 Se você está prestes a desenvolver um chatbot para alguma empresa e está em dúvida em como precificar seu trabalho, estes são alguns exemplos de modelos que já estão sendo praticados no mercado:
 
@@ -60,8 +57,13 @@ Imagine um bot de eventos. Neste cenário, é factível cobrar uma taxa de conve
 
 # E quanto ao meu chatbot ? Monetizando sua idéia...
 
-<img src="../assets/images/2017-07-13-modelo-de-negocio-chatbot/monetization.jpg" 
-    alt="Dúvidas" style="display: block; margin: 0 auto;">
+<div className="Image__Small">
+  <img
+    src="./images/monetization.jpg"
+    title="Dúvidas"
+    alt="Dúvidas"
+  />
+</div>
 
 Existem também pessoas interessadas em desenvolver seus próprios chatbots. Se você está nessa situação e ainda tem dúvidas em como monetizar seu negócio, estas são algumas opções:
 

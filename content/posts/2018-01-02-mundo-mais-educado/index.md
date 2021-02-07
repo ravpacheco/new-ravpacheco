@@ -1,20 +1,14 @@
 ---
-title:  "Vamos deixar o mundo um pouco mais educado ?"
-layout: post
-date:   2018-01-02 14:00:00 +0000
-author: ravpacheco
-lang: pt
-ref: word-more-kindness
-tag: 
+title: Vamos deixar o mundo um pouco mais educado ?
+author: Rafael Pacheco
+date: 2018-01-02
+hero: ./images/kindness.jpeg
+tag:
 - life
 - kindness
 - gentileza
 - vida
-blog: true
-star: false
-description: Algumas reflexões sobre como tornar o mundo um lugar um pouco mais educado.
-externalLink: true
-category: blog
+excerpt: Algumas reflexões sobre como tornar o mundo um lugar um pouco mais educado.
 ---
 
 Durante boa parte da minha infância, os sábados (e as vezes os domingos) eram reservados para jogar *video game*. Se você tiver a minha idade (nascido no início da década de 90 ou fim da década de 80), provavelmente, já teve a experiência de ir até uma video locadora. Sempre que possível, ia até a mais próxima da minha casa para alugar cartuchos para o meu Super Nintendo.
@@ -57,10 +51,7 @@ Vivemos cada vez mais nervosos, estressados, apressados e ansiosos. Infelizmente
 
 Acredito que o primeiro passo para quebrar essa corrente é criar consciência do problema, modificar nossas reações e repassar bons exemplos para as novas gerações. Gentileza gera gentileza. E aí, vamos deixar o mundo um pouco mais educado ?
 
-<img src="../assets/images/2018-01-02-mundo-mais-educado/kindness.jpeg" 
-    alt="Gentileza" style="display: block; margin: 0 auto;">
-
-> PS.: Posso enumerar aqui diversos momentos marcantes em que minha mãe, avós, avôs ou outros familiares me proporcionaram exemplos de educação. Citei aqui, um desses momentos, vivido com meu pai, simplesmente porque me veio a cabeça primeiro quando pensei em escrever este artigo. :)
+*PS.: Posso enumerar aqui diversos momentos marcantes em que minha mãe, avós, avôs ou outros familiares me proporcionaram exemplos de educação. Citei aqui, um desses momentos, vivido com meu pai, simplesmente porque me veio a cabeça primeiro quando pensei em escrever este artigo. :)*
 
 E você o que achou do assunto abordado? Tem alguma sugestão? Gostaria de sugerir outro ponto de vista sobre o tema? Deixe seu comentário abaixo 👇. 
 Se gostar do post compartilhe com seus amigos ❤️, quem sabe ele pode ser útil para outra pessoa também! 😉

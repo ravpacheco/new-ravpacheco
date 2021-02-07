@@ -1,25 +1,17 @@
 ---
-title:  "O que é esse tal de (developer) advocate?"
-layout: post
-date:   2019-08-20 14:00:00 +0000
-author: ravpacheco
-lang: pt
-ref: developer-advocate
-image: /assets/images/2019-08-20-advocate/advocate.jpeg
-headerImage: true
-tag: 
+title: O que é esse tal de (developer) advocate?
+author: Rafael Pacheco
+date: 2019-08-20
+hero: ./images/advocate.jpeg
+tag:
 - profissão
 - developer
 - advocate
 - dúvidas
-blog: true
-star: false
-description: Já ouviu falar no cargo Developer Advocate? Ficou em dúvida? Onde vivem, como se alimentam, o que fazem? Veja neste artigo!.
-externalLink: true
-category: blog
+excerpt: Já ouviu falar no cargo Developer Advocate? Ficou em dúvida? Onde vivem, como se alimentam, o que fazem? Veja neste artigo!.
 ---
 
-> Notas mentais de um developer advocate ...
+*Notas mentais de um developer advocate ...*
 
 Quem me conhece sabe, a muitos anos, eu considero o trabalho do [Scott Hanselman](http://www.hanselman.com/), como o trabalho dos sonhos (sim, sou fã de carteirinha dele).
 
@@ -38,17 +30,20 @@ Ensinar é realmente uma atividade que me motiva. Pode parecer besteira, mas uma
 Desde o início de 2017, começei a colocar em prática várias atividades que me trazem esse tipo de recompensa. 
 Em cada uma delas evolui em algum aspecto. Aprendi o que dizer (**e principalmente o que não dizer**), descobri cidades (e países) diferentes, me desafiei, acertei, errei, mas principalmente ajudei e fui ajudado de alguma forma.
 
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="../assets/images/2019-08-20-advocate/events1.jpg" alt="Alt Text" />
-        <figcaption class="caption">Fotos de algumas credenciais de eventos que participei</figcaption>
-    </div>
+<div className="Image__Small">
+  <img
+    src="./images/events1.jpg"
+    title="Fotos de algumas credenciais de eventos que participei"
+    alt="Fotos de algumas credenciais de eventos que participei"
+  />
+</div>
 
-    <div class="toright">
-
-        <img class="image" src="../assets/images/2019-08-20-advocate/events2.jpg" alt="Alt Text" />
-        <figcaption class="caption">Período: 2017 a 2019</figcaption>
-    </div>
+<div className="Image__Small">
+  <img
+    src="./images/events2.jpg"
+    title="Período: 2017 a 2019"
+    alt="Período: 2017 a 2019"
+  />
 </div>
 
 Destaco as atividades abaixo como as mais importantes nos meus últimos anos como Advocate.
@@ -72,7 +67,7 @@ Esse papel já está bem difundido em grandes empresas de tecnologia ao redor do
 
 Com o objetivo de entender um pouco mais sobre esse "novo" papel, iniciei uma pesquisa para entender como é o dia a dia desses profissionais. Pesquisei e conversei com pessoas que trabalham em empresas reconhecidas por estarem muito próximo a comunidade de desenvolvedores (e usuários), como: Google, Microsoft, RedHat, IBM, Oracle entre outras. Durante várias dessas conversas, encontrei pontos em comum e algumas divergências de atividades de acordo com o perfil de cada empresa.
 
-> **Em linhas gerais**,  Developer advocate é o profissional que trabalha para uma organização, dententora de um produto (ou tecnologia/metodologia), ajudando no processo de educação do mercado. É um aliado dos desenvolvedores (usuários em geral) de um determinado produto. 
+**Em linhas gerais**,  Developer advocate é o profissional que trabalha para uma organização, dententora de um produto (ou tecnologia/metodologia), ajudando no processo de educação do mercado. É um aliado dos desenvolvedores (usuários em geral) de um determinado produto. 
 Seu principal objetivo é educar uma comunidade de usuários sobre os motivos de se utilizar um produto além de propagar a disceminação das melhores práticas de utilização do mesmo.
 
 Ou seja, via de regra, o Advocate é a pessoa responsável por traduzir a visão de uma organização para seus clientes, parceiros e usuários em geral.

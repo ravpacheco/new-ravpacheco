@@ -1,19 +1,13 @@
 ---
-title:  "Oi Latam, precisamos conversar!"
-layout: post
-date:   2018-09-01 14:00:00 +0000
-author: ravpacheco
-lang: pt
-ref: latam-crise
-tag: 
+title: Oi Latam, precisamos conversar!
+author: Rafael Pacheco
+date: 2018-09-01
+hero: ./images/kindness.jpeg
+tag:
 - latam
 - crise
 - atendimento
-blog: true
-star: false
-description: Uma reflexão sobre gerenciamento de crise e um mal atendimento de uma companhia aérea.
-externalLink: true
-category: blog
+excerpt: Uma reflexão sobre gerenciamento de crise e um mal atendimento de uma companhia aérea.
 ---
 
 Problemas acontecem, é normal. Já aconteceu comigo, acontece com quem está lendo este texto e portanto pode acontecer com vcs (Latam) também. Este texto contém uma auto-análise a respeito de 2 problemas que tive com a companhia, nos últimos 30 dias. Antes de continuar preciso explicar que sou adepto à críticas (construtivas), afinal, só com elas é possivel melhorar e enxergar as coisas por um outro lado. Espero que os itens apontados aqui possam, de alguma forma, ajudar a melhorar o atendimento da empresa em momentos de crise.

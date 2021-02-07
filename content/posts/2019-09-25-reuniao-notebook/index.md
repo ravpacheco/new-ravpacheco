@@ -1,26 +1,18 @@
 ---
-title:  "Por que eu parei de levar notebook para reuniões"
-layout: post
-date:   2019-09-25 14:00:00 +0000
-author: ravpacheco
-lang: pt
-ref: reuniao-notebook
-image: /assets/images/2019-09-25-reuniao-notebook/meetings.jpg
-headerImage: true
-tag: 
+title: Por que eu parei de levar notebook para reuniões
+author: Rafael Pacheco
+date: 2019-09-25
+hero: ./images/meetings.jpg
+tag:
 - reuniao
 - foco
 - notebook
-blog: true
-star: false
-description: Uma reflexão sobre pontos negativos em se utilizar notebook em reuniões corporativas.
-externalLink: true
-category: blog
+excerpt: Uma reflexão sobre pontos negativos em se utilizar notebook em reuniões corporativas.
 ---
 
 ***TL;DR***
 
-> Recentemente, minha presença em reuniões aumentou bastante. Então, comecei a refletir sobre alguns pontos e rever minha postura sobre um em específico. Neste texto, descrevo um pouco da minha percepção negativa sobre o uso de notebooks em reuniões de trabalho. Apesar de entender que os notebooks são necessários para alguns momentos em uma reunião, considero que utilizá-los gera problemas. Destaco alguns deles ao longo deste texto. Eles estão organizados em tópicos: 1. Seja educado com quem fala; 2. Poupe o meu e o seu tempo; 3. Suas reações ao notebook se confundem com suas reações presenciais; 4. Não, você não é *multitask*; 5. Fique apenas o tempo necessário.
+*Recentemente, minha presença em reuniões aumentou bastante. Então, comecei a refletir sobre alguns pontos e rever minha postura sobre um em específico. Neste texto, descrevo um pouco da minha percepção negativa sobre o uso de notebooks em reuniões de trabalho. Apesar de entender que os notebooks são necessários para alguns momentos em uma reunião, considero que utilizá-los gera problemas. Destaco alguns deles ao longo deste texto. Eles estão organizados em tópicos: 1. Seja educado com quem fala; 2. Poupe o meu e o seu tempo; 3. Suas reações ao notebook se confundem com suas reações presenciais; 4. Não, você não é *multitask*; 5. Fique apenas o tempo necessário.*
 
 ...
 
