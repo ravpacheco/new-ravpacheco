@@ -1,13 +1,12 @@
 ---
-title: "FAQ "
-layout: post
-author: ravpacheco
-lang: pt
-ref: faq-project
-hidden: true
-tag: faq
-projects: true
-summary: "FAQ sobre minha vida"
+title: Personal FAQ
+author: Rafael Pacheco
+date: 2016-01-01
+hero: ./images/kindness.jpeg
+tag:
+- faq
+excerpt: FAQ sobre minha vida
+secret: true
 ---
 
 Algumas perguntas e respostas frequentes sobre minha vida 😉. Esse FAQ é utilizado como base de conhecimento do meu bot.

@@ -1,17 +1,12 @@
 ---
-title: "Resumo semanal Chatbot 📅"
-layout: post
-author: ravpacheco
-lang: pt
-ref: chatbot-weekly-project
-img: indigo/indigo.png
-tag: projects
-projects: true
-summary: "Lista das lives sobre os resumos (feitos pelo Caio Calado) semanais de chatbot"
-category: project
+title: Resumo semanal Chatbot 📅
+author: Rafael Pacheco
+date: 2017-05-04
+hero: ./images/google_assistant_01.jpg
+tag:
+  - projects
+excerpt: Lista das lives sobre os resumos (feitos pelo Caio Calado) semanais de chatbot
 ---
-
-> Resumo semanal Chatbot
 
 Toda semana o [Caio Calado](https://medium.com/@caio_caladoo) publica, no medium do [BotsBrasil](medium.com/botsbrasil), um resumo destacando alguns dos artigos mais importantes sobre chatbots em todo o mundo. Voce pode encontrar todos os resumos [aqui](https://medium.com/@caio_caladoo).
 

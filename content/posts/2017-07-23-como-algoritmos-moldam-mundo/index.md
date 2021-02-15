@@ -2,7 +2,7 @@
 title: Como os algoritmos moldam o mundo ? 🤔
 author: Rafael Pacheco
 date: 2017-07-23
-hero: ./images/google_assistant_01.jpg
+hero: ./images/cover.jpg
 tag:
 - ted
 - algorithms
@@ -11,8 +11,6 @@ excerpt: Resenha da apresentação "How algorithms shape our world", de Kevin Sl
 ---
 
 *"We live in a world run by algorithms, computer programs that make decisions or solve problems for us. In this riveting, funny talk, Kevin Slavin shows how modern algorithms determine stock prices, espionage tactics, even the movies you watch. But, he asks: If we depend on complex algorithms to manage our daily decisions -- when do we start to lose control?"* - Kevin Slavin (TED Global 2011)
-
-<iframe src="https://embed.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world" width="854px" height="480px" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 * SLAVIN, Kevin. "How algorithms shape our world". Edinburgh: TedGlobal, Julho 2011. Disponível em: <http://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world>. Acesso em: 28 maio 2015.
 

@@ -1,14 +1,11 @@
 ---
-title: "Webinars sobre bots 📹"
-layout: post
-author: ravpacheco
-lang: pt
-ref: webinars-bots-project
-img: indigo/indigo.png
-tag: projects
-projects: true
-summary: "Lista dos webinars sobre aplicações conversacionais (bots)"
-category: project
+title: Webinars sobre bots 📹
+author: Rafael Pacheco
+date: 2019-11-05
+hero: ./images/cover.jpg
+tag:
+  - projects
+excerpt: Lista dos webinars sobre aplicações conversacionais (bots)
 ---
 
 Desde 2016 temas relacionados às aplicações conversacionais (chabots, ou apenas bots) ganhou um grande destaque no cenário de tecnologia mundial.  

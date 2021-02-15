@@ -1,20 +1,14 @@
 ---
-title:  "Como melhorar o PSI mobile da sua página com apenas 5 caracteres."
-layout: post
-date:   2018-06-03 14:00:00 +0000
-author: ravpacheco
-lang: pt
-ref: psi-mobile
-tag: 
+title: Como melhorar o PSI mobile da sua página com apenas 5 caracteres.
+author: Rafael Pacheco
+date: 2018-06-03
+hero: ./images/kindness.jpeg
+tag:
 - psi
 - blip.ai
 - mobile
 - blip-chat
-blog: true
-star: true
-description: Aprenda uma dica rápida e fácil para melhorar o carregamento e o PSI de sua página web
-externalLink: true
-category: blog
+excerpt: Aprenda uma dica rápida e fácil para melhorar o carregamento e o PSI de sua página web
 ---
 
 Oferecer uma boa experiência para os usuários, na minha opinião, é uma premissa básica de qualquer software. Especialmente para aplicações web, velocidade de carregamento é uma característica que pode impactar, profundamente, a experiência dos usuários.

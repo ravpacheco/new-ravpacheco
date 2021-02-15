@@ -1,20 +1,14 @@
 ---
-title:  "Dentre tantas plataformas de bots, por que o BLiP ?"
-layout: post
-date:   2018-02-28 14:00:00 +0000
-author: ravpacheco
-lang: pt
-ref: blip-best-platform
-tag: 
+title: Dentre tantas plataformas de bots, por que o BLiP ?
+author: Rafael Pacheco
+date: 2018-02-28
+hero: ./images/kindness.jpeg
+tag:
 - blip
 - platform
 - opinion
 - vida
-blog: true
-star: false
-description: Algumas reflexões sobre porque acredito que o BLiP é uma ótima plataforma para construção de bots.
-externalLink: true
-category: blog
+excerpt: Algumas reflexões sobre porque acredito que o BLiP é uma ótima plataforma para construção de bots.
 ---
 
 Apesar de não ser novo, o termo bot (ou chatterbot, chatbot, contatos inteligentes, robôs de mensagem, entre outros…) tem ganhado grande relevância desde o final de 2016, com a abertura da API do Messenger (se por acaso, você não sabe o que é um “chatbot” [clique aqui](https://medium.com/botsbrasil/o-que-%C3%A9-um-chatbot-7fa2897eac5d) 😉).
