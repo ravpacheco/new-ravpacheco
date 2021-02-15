@@ -9,6 +9,7 @@ tag: projects
 projects: true
 summary: "Streams list of Caio's weekly sumary commenting about chatbot"
 category: project
+secret: true
 ---
 
 > Chatbot weekly summary

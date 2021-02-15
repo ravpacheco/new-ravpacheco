@@ -9,6 +9,7 @@ tag: projects
 projects: true
 summary: "The list of monthly webinars about conversational applications"
 category: project
+secret: true
 ---
 
 Since 2016 subjects about conversational applications (chabots, ou just bots) got a big importance in tech global scenary.

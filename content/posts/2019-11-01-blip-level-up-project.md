@@ -9,6 +9,7 @@ tag: projects
 projects: true
 summary: "The list of monthly webinars about BLiP platform"
 category: project
+secret: true
 ---
 
 During 2018 and 2019 I did monthly webinars to discuss any new feature released on BLiP platform. 

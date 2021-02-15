@@ -9,6 +9,7 @@ tag: projects
 projects: true
 summary: "Newsletter about BLiP platform"
 category: project
+secret: true
 ---
 
 BLiP Weekly is a newsletter about [BLiP platform](https://blip.ai/en/) and bot’s world. It helps you keep up with the new features, contents, ideas, tips, and discussions about the platform.

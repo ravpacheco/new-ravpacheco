@@ -9,6 +9,7 @@ tag: projects
 projects: true
 summary: "Overview about D-OPTIMAS <i>Distributed multi agent system</i>, a software to solve optimization problems of different classes, developed during my master degree."
 category: project
+secret: true
 ---
 
 > D-OPTIMAS - Distributed OPTimization Multi Agent System
