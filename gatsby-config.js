@@ -3,10 +3,9 @@ module.exports = {
     title: `Pacheco - Website`,
     name: `Rafael Pacheco`,
     siteUrl: `https://ravpacheco.com`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    description: `Pacheco's website! Usually, I put here what I feel and learn. Neste site compartilho algumas notas e reflexões sobre meus aprendizados de vida.`,
     hero: {
-      heading: `Welcome to my place.
-      Usually, I put here what I feel and learn`,
+      heading: `Notes, tutorials, reflexions and everything else... 😊`,
       maxWidth: 652,
     },
     social: [
