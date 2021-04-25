@@ -2,7 +2,7 @@
 title: "Webinars about bots 📹"
 slug: webinars-bots-project
 layout: post
-author: ravpacheco
+author: Rafael Pacheco 🇺🇸
 lang: en
 img: indigo/indigo.png
 tag: projects

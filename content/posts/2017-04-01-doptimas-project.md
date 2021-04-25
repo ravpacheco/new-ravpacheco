@@ -1,14 +1,12 @@
 ---
 title: "D-OPTIMAS 📝"
 slug: doptimas-project
-layout: post
-author: ravpacheco
-lang: en
-img: indigo/indigo.png
+date: 2017-04-01
+author: Rafael Pacheco 🇺🇸
+hero: indigo/indigo.png
 tag: projects
-projects: true
-summary: "Overview about D-OPTIMAS <i>Distributed multi agent system</i>, a software to solve optimization problems of different classes, developed during my master degree."
-category: project
+excerpt: "Overview about D-OPTIMAS <i>Distributed multi agent system</i>, a software to solve optimization problems of different classes, developed during my master degree."
+tag: project
 secret: true
 ---
 

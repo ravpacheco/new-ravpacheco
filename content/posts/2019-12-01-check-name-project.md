@@ -2,7 +2,7 @@
 title: "check-name 📛"
 slug: check-name-project
 layout: post
-author: ravpacheco
+author: Rafael Pacheco 🇺🇸
 lang: en
 img: indigo/indigo.png
 tag: projects

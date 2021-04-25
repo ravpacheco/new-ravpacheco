@@ -2,7 +2,7 @@
 title: "Talks and Workshops 🗣️"
 slug: presentations
 layout: post
-author: ravpacheco
+author: Rafael Pacheco 🇺🇸
 lang: en
 img: indigo/indigo.png
 tag: projects

@@ -2,7 +2,7 @@
 title: "BLiP Level Up 💙"
 slug: blip-level-up-project
 layout: post
-author: ravpacheco
+author: Rafael Pacheco 🇺🇸
 lang: en
 img: indigo/indigo.png
 tag: projects

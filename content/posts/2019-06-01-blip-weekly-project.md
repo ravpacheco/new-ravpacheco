@@ -2,7 +2,7 @@
 title: "BLiP Weekly 💙"
 slug: blip-weekly-project
 layout: post
-author: ravpacheco
+author: Rafael Pacheco 🇺🇸
 lang: en
 img: indigo/indigo.png
 tag: projects
