@@ -1,5 +1,6 @@
 ---
 title: BLiP Weekly 💙
+slug: projeto-blip-weekly
 author: Rafael Pacheco
 date: 2019-06-01
 hero: ./images/blip-weekly.png

@@ -1,5 +1,6 @@
 ---
 title: Criando um chatbot 'currículo' com a plataforma blip.ai
+slug: resumo-chatbot-webhook
 author: Rafael Pacheco
 date: 2016-11-05
 hero: ./images/image_2.jpg

@@ -1,5 +1,6 @@
 ---
 title: GetEmoji, um chatbot para encontrar emojis
+slug: getemoji
 author: Rafael Pacheco
 date: 2017-05-29
 hero: ./images/emoji.jpg

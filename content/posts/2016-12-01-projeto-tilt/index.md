@@ -1,5 +1,6 @@
 ---
 title: Today I learned This - 'tilt'
+slug: projeto-tilt
 author: Rafael Pacheco
 date: 2016-12-01
 # hero: ./images/x.jpg

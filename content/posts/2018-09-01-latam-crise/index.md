@@ -1,5 +1,6 @@
 ---
 title: Oi Latam, precisamos conversar!
+slug: latam-crise
 author: Rafael Pacheco
 date: 2018-09-01
 hero: ./images/kindness.jpeg

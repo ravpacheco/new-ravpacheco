@@ -1,5 +1,6 @@
 ---
 title: Dentre tantas plataformas de bots, por que o BLiP ?
+slug: dentre-tantas-plataformas-blip
 author: Rafael Pacheco
 date: 2018-02-28
 hero: ./images/kindness.jpeg

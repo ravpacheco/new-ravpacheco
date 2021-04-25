@@ -1,5 +1,6 @@
 ---
 title: Como ser um 'profissional' no desenvolvimento de código (Apresentação)
+slug: profissional-software
 author: Rafael Pacheco
 date: 2016-07-01
 hero: ./images/cleancoder.jpg

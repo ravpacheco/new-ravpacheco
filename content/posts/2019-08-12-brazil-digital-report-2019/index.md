@@ -1,5 +1,6 @@
 ---
 title: Brazil Digital Report 2019 - by McKinsey
+slug: brazil-digital-report-2019
 author: Rafael Pacheco
 date: 2019-08-12
 hero: ./images/brazil-digital-report.png

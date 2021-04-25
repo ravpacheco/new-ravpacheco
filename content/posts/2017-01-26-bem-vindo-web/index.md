@@ -1,5 +1,6 @@
 ---
 title: Bem vindo a web :)
+slug: bem-vindo-web
 author: Rafael Pacheco
 date: 2017-01-26
 hero: ./images/nadador.jpg

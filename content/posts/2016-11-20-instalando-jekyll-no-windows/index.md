@@ -1,5 +1,6 @@
 ---
 title: Instalando Jekyll no Windows
+slug: instalando-jekyll-no-windows
 author: Rafael Pacheco
 date: 2016-11-08
 hero: ./images/jekyll-logo-light-solid.png

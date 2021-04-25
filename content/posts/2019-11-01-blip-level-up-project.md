@@ -1,9 +1,9 @@
 ---
 title: "BLiP Level Up 💙"
+slug: blip-level-up-project
 layout: post
 author: ravpacheco
 lang: en
-ref: blip-level-up-project
 img: indigo/indigo.png
 tag: projects
 projects: true

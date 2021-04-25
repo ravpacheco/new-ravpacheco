@@ -1,5 +1,6 @@
 ---
 title: Obrigado Take
+slug: obrigado-take
 author: Rafael Pacheco
 date: 2020-03-13
 hero: ./images/take.jpg

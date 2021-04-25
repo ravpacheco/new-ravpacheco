@@ -1,5 +1,6 @@
 ---
 title: Diga não a procrastinação!
+slug: diga-nao-a-procrastinacao
 author: Rafael Pacheco
 date: 2014-11-20
 hero: ./images/image-1.jpg

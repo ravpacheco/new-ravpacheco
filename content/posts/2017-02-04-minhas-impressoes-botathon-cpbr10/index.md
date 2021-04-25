@@ -1,5 +1,6 @@
 ---
 title: Minhas primeiras impressões sobre o botathon CPBr10
+slug: minhas-impressoes-botathon-cpbr10
 author: Rafael Pacheco
 date: 2017-02-04
 hero: ./images/cpbr10.jpg

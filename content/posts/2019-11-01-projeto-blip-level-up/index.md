@@ -1,5 +1,6 @@
 ---
 title: BLiP Level Up 💙
+slug: projeto-blip-level-up
 author: Rafael Pacheco
 date: 2019-11-01
 hero: ./images/cover.png

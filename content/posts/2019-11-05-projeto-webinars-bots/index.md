@@ -1,5 +1,6 @@
 ---
 title: Webinars sobre bots 📹
+slug: projeto-webinars-bots
 author: Rafael Pacheco
 date: 2019-11-05
 hero: ./images/cover.jpg

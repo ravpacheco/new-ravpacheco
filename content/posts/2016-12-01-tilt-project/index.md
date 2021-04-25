@@ -1,5 +1,6 @@
 ---
 title: tilt - Today I learned This
+slug: tilt-project
 author: Rafael Pacheco
 date: 2016-12-01
 hero: ./images/cover.jpg

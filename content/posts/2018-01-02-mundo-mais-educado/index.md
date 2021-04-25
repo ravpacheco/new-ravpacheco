@@ -1,5 +1,6 @@
 ---
 title: Vamos deixar o mundo um pouco mais educado ?
+slug: mundo-mais-educado
 author: Rafael Pacheco
 date: 2018-01-02
 hero: ./images/kindness.jpeg

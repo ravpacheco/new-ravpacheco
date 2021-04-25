@@ -1,5 +1,6 @@
 ---
 title: Criando um ambiente real de distribuição de aplicativos usando TestFairy
+slug: distribuindo-aplicativos-com-testFairy
 author: Rafael Pacheco
 date: 2015-06-13
 hero: ./images/mtc2015.jpg

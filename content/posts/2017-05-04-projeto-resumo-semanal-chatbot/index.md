@@ -1,5 +1,6 @@
 ---
 title: Resumo semanal Chatbot 📅
+slug: projeto-resumo-semanal-chatbot
 author: Rafael Pacheco
 date: 2017-05-04
 hero: ./images/google_assistant_01.jpg

@@ -1,9 +1,9 @@
 ---
 title: "D-OPTIMAS 📝"
+slug: doptimas-project
 layout: post
 author: ravpacheco
 lang: en
-ref: doptimas-project
 img: indigo/indigo.png
 tag: projects
 projects: true

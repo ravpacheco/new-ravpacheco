@@ -1,5 +1,6 @@
 ---
 title: Personal FAQ
+slug: faq
 author: Rafael Pacheco
 date: 2016-01-01
 hero: ./images/kindness.jpeg

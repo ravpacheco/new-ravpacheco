@@ -1,5 +1,6 @@
 ---
 title: check-name 📛
+slug: projeto-check-name
 author: Rafael Pacheco
 date: 2019-12-01
 hero: ./images/cover.jpg

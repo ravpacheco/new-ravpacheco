@@ -1,5 +1,6 @@
 ---
 title: Palestras e Workshops 🗣️
+slug: apresentacoes
 author: Rafael Pacheco
 date: 2019-12-20
 # hero: ./images/brazil-digital-report.png

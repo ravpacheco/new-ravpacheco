@@ -1,5 +1,6 @@
 ---
 title: Google Home, Assistant e Actions (Apresentação)
+slug: google-home-apresentacao
 author: Rafael Pacheco
 date: 2017-06-01
 hero: ./images/google_assistant_01.jpg

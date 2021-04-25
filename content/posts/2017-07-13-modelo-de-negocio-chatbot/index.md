@@ -1,5 +1,6 @@
 ---
 title: Qual o melhor modelo de negócio para o seu chatbot ?
+slug: modelo-de-negocio-chatbot
 author: Rafael Pacheco
 date: 2017-07-13
 hero: ./images/money.png

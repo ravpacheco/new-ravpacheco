@@ -1,5 +1,6 @@
 ---
 title: Facilitando a criação de seu chatbot através das extensões BLiP
+slug: entendendo-extensoes-blip-ai
 author: Rafael Pacheco
 date: 2017-01-09
 hero: ./images/image_0.jpg

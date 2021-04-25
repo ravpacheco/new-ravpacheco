@@ -1,9 +1,9 @@
 ---
 title: "Chatbot weekly summary 📅"
+slug: chatbot-weekly-project
 layout: post
 author: ravpacheco
 lang: en
-ref: chatbot-weekly-project
 img: indigo/indigo.png
 tag: projects
 projects: true

@@ -1,5 +1,6 @@
 ---
 title: Introdução ao Modelo de Atores e Akka (Apresentação)
+slug: introducao-akka-apresentacao
 author: Rafael Pacheco
 date: 2015-05-01
 hero: ./images/akka3.jpg

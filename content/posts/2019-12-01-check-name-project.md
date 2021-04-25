@@ -1,9 +1,9 @@
 ---
 title: "check-name 📛"
+slug: check-name-project
 layout: post
 author: ravpacheco
 lang: en
-ref: check-name-project
 img: indigo/indigo.png
 tag: projects
 projects: true

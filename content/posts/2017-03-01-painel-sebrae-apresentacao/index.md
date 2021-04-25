@@ -1,5 +1,6 @@
 ---
 title: Chatbot - A revolução da comunicação entre pessoas e empresas (Apresentação)
+slug: painel-sebrae-apresentacao
 author: Rafael Pacheco
 date: 2017-03-01
 hero: ./images/sebrae-painel-startups.jpg

@@ -1,9 +1,9 @@
 ---
 title: "Webinars about bots 📹"
+slug: webinars-bots-project
 layout: post
 author: ravpacheco
 lang: en
-ref: webinars-bots-project
 img: indigo/indigo.png
 tag: projects
 projects: true

@@ -1,9 +1,9 @@
 ---
 title: "Talks and Workshops 🗣️"
+slug: presentations
 layout: post
 author: ravpacheco
 lang: en
-ref: presentations
 img: indigo/indigo.png
 tag: projects
 date: 2019-12-20 14:00:00 +0000

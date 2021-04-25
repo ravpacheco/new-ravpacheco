@@ -1,5 +1,6 @@
 ---
 title: Como os algoritmos moldam o mundo ? 🤔
+slug: como-algoritmos-moldam-mundo
 author: Rafael Pacheco
 date: 2017-07-23
 hero: ./images/cover.jpg

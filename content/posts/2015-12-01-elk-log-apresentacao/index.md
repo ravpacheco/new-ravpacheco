@@ -1,5 +1,6 @@
 ---
 title: Let's go log! (Apresentação)
+slug: elk-log-apresentacao
 author: Rafael Pacheco
 date: 2015-12-01
 hero: ./images/elasticsearch-logo.png

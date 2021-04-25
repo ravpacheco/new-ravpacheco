@@ -1,5 +1,6 @@
 ---
 title: Você sabe o que é um chatbot?
+slug: voce-sabe-o-que-eh-um-chatbot
 author: Rafael Pacheco
 date: 2016-11-08
 hero: ./images/chatbot.jpg

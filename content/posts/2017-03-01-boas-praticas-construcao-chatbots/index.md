@@ -1,5 +1,6 @@
 ---
 title: Boas práticas para a construção de chatbots relevantes
+slug: boas-praticas-construcao-chatbots
 author: Rafael Pacheco
 date: 2017-03-01
 hero: ./images/cover.png

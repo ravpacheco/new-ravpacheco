@@ -1,5 +1,6 @@
 ---
 title: Conceitos de programação distribuída
+slug: conceitos-programacao-distribuida
 author: Rafael Pacheco
 date: 2015-03-01
 # hero: ./images/markdown.jpg

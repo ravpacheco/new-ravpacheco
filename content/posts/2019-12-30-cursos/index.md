@@ -1,5 +1,6 @@
 ---
 title: Cursos ⛳
+slug: cursos
 author: Rafael Pacheco
 date: 2019-12-30
 hero: ./images/face-platzi.png

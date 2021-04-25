@@ -1,5 +1,6 @@
 ---
 title: Por que eu parei de levar notebook para reuniões
+slug: reuniao-notebook
 author: Rafael Pacheco
 date: 2019-09-25
 hero: ./images/meetings.jpg

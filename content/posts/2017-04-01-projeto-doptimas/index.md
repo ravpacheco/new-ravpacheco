@@ -1,5 +1,6 @@
 ---
 title: D-OPTIMAS 📝
+slug: projeto-doptimas
 author: Rafael Pacheco
 date: 2017-04-01
 hero: ./images/emoji.jpg

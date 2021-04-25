@@ -1,9 +1,9 @@
 ---
 title: "BLiP Weekly 💙"
+slug: blip-weekly-project
 layout: post
 author: ravpacheco
 lang: en
-ref: blip-weekly-project
 img: indigo/indigo.png
 tag: projects
 projects: true

@@ -1,5 +1,6 @@
 ---
 title: Como criar um chatbot incrível (Apresentação)
+slug: chatbot4devs-apresentacao
 author: Rafael Pacheco
 date: 2017-11-23
 hero: ./images/logo.png

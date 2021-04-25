@@ -1,5 +1,6 @@
 ---
 title: O que os Power​ Rangers sempre me ensinaram?
+slug: o-que-power-rangers
 author: Rafael Pacheco
 date: 2017-05-03
 hero: ./images/power-rangers-cover.jpg

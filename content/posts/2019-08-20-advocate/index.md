@@ -1,5 +1,6 @@
 ---
 title: O que é esse tal de (developer) advocate?
+slug: advocate
 author: Rafael Pacheco
 date: 2019-08-20
 hero: ./images/advocate.jpeg
