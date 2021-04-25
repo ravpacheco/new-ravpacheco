@@ -3,7 +3,7 @@ title: Como melhorar o PSI mobile da sua página com apenas 5 caracteres.
 slug: como-melhorar-psi-mobile
 author: Rafael Pacheco
 date: 2018-06-03
-hero: ./images/kindness.jpeg
+hero: ./images/psi.png
 tag:
 - psi
 - blip.ai

@@ -3,7 +3,7 @@ title: Como fazer upload de um pacote aar para o Bintray
 slug: como-fazer-upload-arr-bintray
 author: Rafael Pacheco
 date: 2015-03-03
-# hero: ./images/hero.jpg
+hero: ./images/bintray.png
 tag:
 - android
 - bintray

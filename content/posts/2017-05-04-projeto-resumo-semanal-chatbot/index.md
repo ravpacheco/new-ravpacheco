@@ -3,7 +3,7 @@ title: Resumo semanal Chatbot 📅
 slug: projeto-resumo-semanal-chatbot
 author: Rafael Pacheco
 date: 2017-05-04
-hero: ./images/google_assistant_01.jpg
+hero: ./images/resumo-semanal.jpeg
 tag:
   - projects
 excerpt: Lista das lives sobre os resumos (feitos pelo Caio Calado) semanais de chatbot

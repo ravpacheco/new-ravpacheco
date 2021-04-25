@@ -3,7 +3,7 @@ title: D-OPTIMAS 📝
 slug: projeto-doptimas
 author: Rafael Pacheco
 date: 2017-04-01
-hero: ./images/emoji.jpg
+hero: ./images/doptimas.png
 tag:
   - projects
 excerpt: Introdução ao D-OPTIMAS Distributed multi agent system, um software para resolução de problemas de otimização de diferentes classes que desenvolvi durante meu mestrado.

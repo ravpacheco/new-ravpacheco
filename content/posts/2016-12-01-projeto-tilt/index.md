@@ -3,7 +3,7 @@ title: Today I learned This - 'tilt'
 slug: projeto-tilt
 author: Rafael Pacheco
 date: 2016-12-01
-# hero: ./images/x.jpg
+hero: ./images/tilt.jpeg
 tag:
 - projects
 excerpt: Lista de alguns pequenos e interessantes aprendizados do dia a dia.

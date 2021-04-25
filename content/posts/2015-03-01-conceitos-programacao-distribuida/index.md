@@ -3,7 +3,7 @@ title: Conceitos de programação distribuída
 slug: conceitos-programacao-distribuida
 author: Rafael Pacheco
 date: 2015-03-01
-# hero: ./images/markdown.jpg
+hero: ./images/distributed.jpeg
 excerpt: Alguns conceitos básicos importantes em programação concorrente e distribuída. 
 tag: 
 - programacao distribuida

@@ -3,7 +3,7 @@ title: Dentre tantas plataformas de bots, por que o BLiP ?
 slug: dentre-tantas-plataformas-blip
 author: Rafael Pacheco
 date: 2018-02-28
-hero: ./images/kindness.jpeg
+hero: ./images/plataformas.png
 tag:
 - blip
 - platform
@@ -16,12 +16,12 @@ Apesar de não ser novo, o termo bot (ou chatterbot, chatbot, contatos inteligen
 
 Visto do alto, construir um bot é algo simples. Você precisa, basicamente, **de uma API** que **receba mensagens de um canal** (como o Facebook Messenger por exemplo); **analise o conteúdo da mensagem** (utilizando ou não algoritmos de Inteligência Artificial); e **responda o cliente** com requisições na API do canal.
 
-![Arquitetura mínima para criar um bot.](https://cdn-images-1.medium.com/max/1000/1*TMTDp0Vceghulz5nhXxQKg.png)
+![Arquitetura mínima para criar um bot.](./images/webhook.png)
 *Arquitetura mínima para criar um bot.*
 
 Apesar disso, quem já construiu, ou está construindo, um bot sabe que a tarefa não é assim tão trivial. Design de conversa, integrações, presença *omni channel*, gestão e manutenção, evolução da base de conhecimento, transbordo para um atendente humano, análise e insights dos eventos gerados, métricas para avaliação do sucesso, testes AB, criação de bots e sub-bots, são apenas alguns dos desafios de quem cria bons bots.
 
-![Complexidade em construir um bom bot](https://cdn-images-1.medium.com/max/600/1*SjVWZ7-45QR2E66Hr2LaHw.png)
+![Complexidade em construir um bom bot](./images/good-great.png)
 
 > “Lembre-se: construir um bot é fácil, mas construir um bom bot pode ser bem difícil”
 
@@ -33,7 +33,7 @@ Meu objetivo neste artigo é apresentar o meu ponto de vista, sobre a plataforma
 
 ...
 
-![Plataformas](https://cdn-images-1.medium.com/max/2000/1*hQq0yD2mdon2FRW1kdRp7Q.png)
+![Plataformas](./images/plataformas.png)
 *Algumas plataformas/ferramentas do ecossistema de bots no mundo. Fonte: Sergio Passos*
 
 > Alerta: Apesar de ser um dos desenvolvedores e o evangelizador da plataforma BLiP, testo, regularmente, ferramentas relacionadas ao mundo de bots, desenvolvidas por qualquer empresa do mundo.
@@ -48,7 +48,7 @@ Sendo assim, **antes** de apresentar os **motivos pelos quais acredito** que o B
 
 O BLiP permite a criação de 2 tipos de bots: utilizando um dos templates disponíveis ou bots 100% customizáveis, seja através de código (utilizando um SDK ou requisições HTTP) ou através do Builder. **O Builder é construtor visual de fluxos** que permite que qualquer pessoa (com ou sem conhecimento de programação) crie bots complexos em pouco tempo. A imagem abaixo ilustra o fluxo de um bot criado a partir do **Builder do BLiP** (para saber mais como funciona clique aqui 👈).
 
-![Exemplo de bot construido através do Builder do BLiP](https://cdn-images-1.medium.com/max/800/1*92L7C0w_EL0qg2luvKeUUg.png)
+![Exemplo de bot construido através do Builder do BLiP](./images/builder.png)
 
 *Exemplo de bot construido através do Builder do BLiP*
 
@@ -111,7 +111,7 @@ Pensando nisso, o BLiP disponibiliza SDKs (*C\#, JavaScript e JAVA*) e uma API H
 
 Diferente da grande maioria de plataformas de bots, o BLiP possui diversas ferramentas que acompanham a equipe durante todo o ciclo de vida de um bot, desde sua ideação até sua evolução.
 
-![Bots life cycle](https://cdn-images-1.medium.com/max/800/1*tW-B0x-XSGlozpFPnsBjbQ.png)
+![Bots life cycle](./images/bot-lifecycle.png)
 
 *Ciclo de vida de um bot.*
 
@@ -145,7 +145,7 @@ Assim como em qualquer aplicação real, após o processo de publicação em um 
 
 O painel principal do BLiP age como um *heath monitor* (monitor de saúde) trazendo várias informações, indispensáveis, para o gerenciamento do seu bot. É possível saber, em tempo real, por exemplo, se o bot está disponível, qual a quantidade de mensagens trafegadas, qual os assuntos mais discutidos, o tempo médio de resposta do bot, quantidade de usuários ativos, entre várias outras.
 
-![Exemplo do dashboard de informações gerais de um bot no BLiP.](https://cdn-images-1.medium.com/max/800/1*ZiQ_XL8wfai_qOrZOYxjVQ.png)
+![Exemplo do dashboard de informações gerais de um bot no BLiP.](./images/home.png)
 
 *Exemplo do dashboard de informações gerais de um bot no BLiP.*
 
@@ -167,7 +167,7 @@ Por fim, existe ainda a total flexibilidade para utilização de ferramentas de 
 
 Uma das premissas do BLiP é que durante todo o ciclo de vida de um bot são necessárias várias pessoas. Pensando nisso, o portal da plataforma permite que cada membro da equipe tenha a visão e os acessos necessários para desempenhar **corretamente**, seu trabalho.
 
-![Central de permissão da equipe](https://cdn-images-1.medium.com/max/800/1*OejYMPM3N7kt5uM2bYXIcA.png)
+![Central de permissão da equipe](./images/team.png)
 
 *Central de permissão da equipe*
 
@@ -179,7 +179,7 @@ Apesar do Messenger se apresentar hoje como o **canal** (aplicativo de mensagem 
 
 Atualmente, o BLiP permite que você crie seu bot uma única vez e o disponibilize em 7 canais: *Telegram*, *Messenger*, *Workplace*, *Skype*, *Email*, *SMS* e **BLiP Chat** (canal próprio do BLiP que permite colocar seu bot em um **site** ou em um aplicativo móvel **Android** e **iOS**).
 
-![Canais do BLiP](https://cdn-images-1.medium.com/max/800/1*QRV7a_2ZhJ5pc3ytjLs8aA.png)
+![Canais do BLiP](./images/multichannel.png)
 
 Em breve, bots criados no BLiP estarão disponíveis também em canais como: *Whatsapp*, *Slack*, *Rocket Chat*, *Google RCS*, *Google Assistant*, *Alexa*, *Business Chat* da Apple entre outros.
 
@@ -206,7 +206,7 @@ Em quase todos os contextos, uma alta disponibilidade do bot pode ser a chave pa
 * \+ de 4000 chatbots já criados.
 * Alguns dos clientes do BLiP
 
-![Algumas empresas que já usam o BLiP](https://cdn-images-1.medium.com/max/800/1*HNIlGFVQ8BSatIhN6cCVtg.png)
+![Algumas empresas que já usam o BLiP](./images/clients.png)
 
 *Algumas empresas que já usam o BLiP*
 

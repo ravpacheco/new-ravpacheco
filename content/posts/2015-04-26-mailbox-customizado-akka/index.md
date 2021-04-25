@@ -3,7 +3,7 @@ title: Como criar um Mailbox customizado com akka
 slug: mailbox-customizado-akka
 author: Rafael Pacheco
 date: 2015-04-26
-# hero: ./images/hero.jpg
+hero: ./images/mailbox.jpeg
 tag:
 - akka
 - mailbox
