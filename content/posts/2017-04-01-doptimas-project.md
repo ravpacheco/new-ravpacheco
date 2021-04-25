@@ -6,7 +6,6 @@ author: Rafael Pacheco 🇺🇸
 hero: indigo/indigo.png
 tag: projects
 excerpt: "Overview about D-OPTIMAS <i>Distributed multi agent system</i>, a software to solve optimization problems of different classes, developed during my master degree."
-tag: project
 secret: true
 ---
 
