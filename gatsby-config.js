@@ -26,6 +26,10 @@ module.exports = {
         name: `linkedin`,
         url: `https://www.linkedin.com/in/ravpacheco/`,
       },
+      {
+        name: `youtube`,
+        url: `http://youtube.com/ravpacheco`,
+      },
     ],
   },
   plugins: [
