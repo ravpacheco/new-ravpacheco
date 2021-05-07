@@ -1,6 +1,6 @@
 import React, { Fragment } from "react";
 import styled from "@emotion/styled";
-import * as mediaqueries from '../../../../styles/media'
+import * as mediaqueries from '@narative/gatsby-theme-novela/src/styles/media'
 import { getLogoDesktop, getLogoMobile } from "./utils";
 
 /**
