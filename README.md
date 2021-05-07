@@ -1,45 +1,18 @@
 
+# TODO
 
 Add comments by Disqus
 https://www.gatsbyjs.com/plugins/gatsby-plugin-disqus/
 
-# Gatsby Starter Novela
+Add en bio page
 
-With minimal styling and maximum features — including multiple homepage layouts, built-in social sharing and dark mode — Novela makes it easy to start publishing beautiful articles and stories with Gatsby.
+# Getting Started
 
-Novela is built by the team at [Narative](https://www.narative.co), and built for everyone that loves the web.
+This guide will take you through setting up this web site.
 
-<div>
-<a href="https://novela.narative.co" target="_blank">
-<img src="https://raw.githubusercontent.com/narative/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-cta-demo.jpg" alt="gatsby-novela-theme live demo" width="295px" />
-</a>
-</div>
-
-<div>
-<a href="https://www.narative.co/design/open/novela" target="_blank">
-<img src="https://raw.githubusercontent.com/narative/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-cta-figma.jpg" alt="gatsby-novela-theme figma link" width="295px" />
-</a>
-</div>
-
-# Using Gatsby Starter Novela
-
-This guide will take you through setting up Novela with Gatsby Starter Novela.
-
-### Step 1: Starter installation
-
-##### With `gatsby-cli`:
+### Step 1: Installing dependences
 
 ```sh
-gatsby new novela-site https://github.com/narative/gatsby-starter-novela
-```
-
-##### With `git clone`:
-
-```sh
-git clone git@github.com:narative/gatsby-starter-novela.git novela-site
-
-cd novela-site
-
 yarn
 ```
 
@@ -64,7 +37,10 @@ yarn proxy
 
 ### Help
 
-If you don't have *yarn* installed follow the [yarn getting started guide](https://classic.yarnpkg.com/en/docs/getting-started) 
+Please, if you have any contribution or suggestion to make this project a little bit better [use this link](https://github.com/ravpacheco/new-ravpacheco/issues) to open an issue.
 
-For more information visit the [Theme repository](https://github.com/narative/gatsby-theme-novela)
+For more information about the theme used to create this site visit the [Theme repository](https://github.com/narative/gatsby-theme-novela)
 
+# About the theme
+
+This web site use Novela theme for Gatsby. Novela is built by the team at [Narative](https://www.narative.co), and built for everyone that loves the web.
