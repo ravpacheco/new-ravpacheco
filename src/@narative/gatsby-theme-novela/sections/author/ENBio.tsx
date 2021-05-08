@@ -8,9 +8,27 @@ import HorizontalRule from "@components/HorizontalRule";
 const PTBio = () => {
     return (
         <>
-            <Paragraph>Rafael Pacheco é mestre em Modelagem Matemática e Computacional e graduado em Engenharia de Computação pelo CEFET-MG. Trabalha como developer advocate do BLiP, a plataforma para construção de bots da Take. É apaixonado por tecnologia e futebol. Adora ensinar, discutir e apresentar suas ideias sobre as coisas que acredita. Nos últimos anos, tem se esforçado para ensinar tudo o que sabe sobre bots e a plataforma BLiP.</Paragraph>
-            <Headings.h3>Biografia estendida</Headings.h3>
+            <Paragraph>Rafael Pacheco is Master of Mathematical and Computational Modelling and Bachelor of Computer Engineering at CEFET-MG. Works as a developer advocate at BLiP, Take’s chatbot platform. Loves technology and soccer. Likes teach, discuss and talk about things that believe. In the last years, has made efforts to teach everyone everything that knows about bots and BLiP platform.</Paragraph>
+            <Headings.h3>Full Bio</Headings.h3>
             <br />
+            {/* Rafael Avelar Pacheco, brazillian, from Sete Lagoas city borned on 1990 December 08 and currently lives at Belo Horizonte. Is Bachelor of Computer Engineering and Master of Mathematical and Computational Modelling at CEFET-MG. During the university time moved to Porto city, in Portugal, and studied for a time on Faculdade de Ciências at Universidade do Porto.
+
+Before get in university used to spend free time among study, play video games and soccer. Never played soccer as a professional but had played relevant championships in Brazil, like JIMI 2007 and JIF 2010.
+
+Besides a lot of friends, soccer gave skills and great life experiences like: work in a team, control anxiety, never give up and meanly know that some times you will lose.
+
+For a long time Was member of LSI - Laboratório de Sistemas Inteligentes at CEFET-MG, developing research projects in Artificial Inteligent, Actors Model and Multi Agent System subjects.
+
+In 2011 had your first professional experience going to work for an important Brazillian Telecom in order to develop software. After return to Brazil, in 2013, started to work at Take where speciallized in build messaging applications. Together with professional activities made some private and social projects, like:
+
+Co-Founder of JumpWeb - Consulting company specialized in software development.
+Co-Founder of MyNerdBox - First geek’s subscription club in Brazil.
+Co-Founder of CachorrosBH - Portal to help during the adoption process of dogs and cats at Belo Horizonte.
+Nowadays, is developer advocate at BLiP, Take’s chatbots platform. Among other things, helps (direct or indirectly) more than 5000 developers and companies around the world about how to use BLiP to build great conversational applications. From developer intern to technical leader already had different roles. Every weekend keep trying to play soccer and is the forward of Tchê Garotos F.C.
+
+Some hobbys are: meet different places, read, write, whatch a good movie - especially on movies, write code, browse open source projects, join tech events, play video games and study “unconventional subjects”.
+
+Occasionally, writes about programming, chatbots and random subjects in your personal blog and sites like InfoQ, ChatbotsBrasil and BotsBrasil. */}
             <Paragraph>Rafael Avelar Pacheco, brasileiro, natural de Sete Lagoas nascido em 08 de dezembro de 1990, mora em Belo Horizonte, é bacharel em Engenharia de Computação e mestre em Modelagem Matemática e Computacional pelo CEFET - MG.Durante a faculdade de engenharia mudou - se para a cidade do Porto, em Portugal, e estudou por um período na Faculdade de Ciências da Universidade do Porto.</Paragraph>
             <Paragraph>Antes de entrar para a faculdade dividia o tempo entre os estudos, video games e futebol. Apesar de nunca ter se profissionalizado como jogador de futebol, já disputou alguns campeonatos relevantes no brasil, como o JIMI 2007 e JIF 2010. Além de muitos amigos, o futebol trouxe aprendizados e experiências de vida importantes, como: trabalhar em equipe, controlar a ansiedade, nunca desistir e, principalmente, saber perder.</Paragraph>
             <Paragraph>Durante a graduação e o mestrado atuou como membro do Laboratório de Sistemas Inteligentes no CEFET-MG, desenvolvendo projetos de pesquisa e iniciação científica, nas áreas de Inteligência Artificial, Sistemas Multiagentes, Modelo de Atores e Sistemas evolutivos bio inspirados.</Paragraph>

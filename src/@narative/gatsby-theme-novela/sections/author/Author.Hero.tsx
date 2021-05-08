@@ -16,7 +16,6 @@ interface AuthorHeroProps {
 }
 
 const AuthorHero: React.FC<AuthorHeroProps> = ({ author }) => {
-    console.log(author);
     return (
         <Hero>
             <HeroImage>
